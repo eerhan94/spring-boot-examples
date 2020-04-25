@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/git.iml" filepath="$PROJECT_DIR$/.idea/git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-starter-data-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-starter-data-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-example-redis/spring-boot-starter-data-redis.iml" filepath="$PROJECT_DIR$/spring-boot-example-redis/spring-boot-starter-data-redis.iml" />
     </modules>
   </component>
 </project>
