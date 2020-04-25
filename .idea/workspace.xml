@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51da2f67-d7ae-43aa-ab49-43eff39a2c44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/java/com/example/kafka/SpringBootStarterDataKafkaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/java/com/example/kafka/config/KafkaConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/java/com/example/kafka/controller/KafkaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/java/com/example/kafka/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/java/com/example/kafka/service/KafkaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-example-kafka/src/main/resources/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +100,7 @@
       <workItem from="1587768276459" duration="2996000" />
       <workItem from="1587771389768" duration="2336000" />
       <workItem from="1587817880794" duration="1110000" />
-      <workItem from="1587819046766" duration="560000" />
+      <workItem from="1587819046766" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="-redis">
       <created>1587772878126</created>
@@ -155,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587773407632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="spring-boot-example-kafka">
+      <created>1587819768920</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587819768921</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +161,8 @@
     <MESSAGE value="-redis" />
     <MESSAGE value="spring-boot-redis" />
     <MESSAGE value="spring-boot-example-redis" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-example-redis" />
+    <MESSAGE value="spring-boot-example-kafka" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-example-kafka" />
   </component>
   <component name="WindowStateProjectService">
     <state x="583" y="199" key="#Notifications" timestamp="1587773472161">
@@ -176,10 +173,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="583" y="199" key="#Project_Structure/62.0.1858.1080@62.0.1858.1080" timestamp="1587818849447" />
-    <state x="526" y="135" key="CommitChangelistDialog2" timestamp="1587819726469">
+    <state x="526" y="135" key="CommitChangelistDialog2" timestamp="1587819767137">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="526" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1587819726469" />
+    <state x="526" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1587819767137" />
     <state x="111" y="73" width="1674" height="893" key="DiffContextDialog" timestamp="1587818352782">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -228,10 +225,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="183" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1587771332961" />
-    <state x="583" y="274" key="Vcs.Push.Dialog.v2" timestamp="1587773413735">
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2" timestamp="1587819772087">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="274" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1587773413735" />
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1587819772087" />
     <state x="687" y="272" width="607" height="536" key="find.popup" timestamp="1587819343918">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
