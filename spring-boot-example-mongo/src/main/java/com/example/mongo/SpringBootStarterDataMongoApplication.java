@@ -1,13 +1,13 @@
-package com.example.postgres;
+package com.example.mongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootStarterDataPostgresApplication {
+public class SpringBootStarterDataMongoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootStarterDataPostgresApplication.class, args);
+        SpringApplication.run(SpringBootStarterDataMongoApplication.class, args);
     }
 
 }
