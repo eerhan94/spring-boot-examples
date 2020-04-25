@@ -8,14 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-starter-data-redis" />
+        <module name="spring-boot-example-kafka" />
+        <module name="spring-boot-example-redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-boot-example-kafka" target="1.8" />
+      <module name="spring-boot-example-redis" target="1.8" />
       <module name="spring-boot-starter-data-redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-example-kafka" options="-parameters" />
+      <module name="spring-boot-example-redis" options="-parameters" />
       <module name="spring-boot-starter-data-redis" options="-parameters" />
     </option>
   </component>
