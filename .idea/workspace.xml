@@ -4,6 +4,20 @@
     <list default="true" id="51da2f67-d7ae-43aa-ab49-43eff39a2c44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/java/com/example/redis/SpringBootStarterDataRedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/java/com/example/redis/SpringBootStarterDataRedisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/java/com/example/redis/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/java/com/example/redis/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/java/com/example/redis/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/java/com/example/redis/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/java/com/example/redis/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/java/com/example/redis/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/java/com/example/redis/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/java/com/example/redis/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-redis/src/test/java/com/example/redis/SpringBootStarterDataRedisApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-example-redis/src/test/java/com/example/redis/SpringBootStarterDataRedisApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587768268021</updated>
       <workItem from="1587768276459" duration="2996000" />
-      <workItem from="1587771389768" duration="1696000" />
+      <workItem from="1587771389768" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="-redis">
       <created>1587772878126</created>
@@ -93,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587772878127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-redis">
+      <created>1587773105703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587773105703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="spring-boot-redis">
+      <created>1587773283812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587773283812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,13 +129,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-redis" />
-    <option name="LAST_COMMIT_MESSAGE" value="-redis" />
+    <MESSAGE value="spring-boot-redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring-boot-redis" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="135" key="CommitChangelistDialog2" timestamp="1587773104675">
+    <state x="526" y="135" key="CommitChangelistDialog2" timestamp="1587773282495">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="526" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1587773104675" />
+    <state x="526" y="135" key="CommitChangelistDialog2/62.0.1858.1080@62.0.1858.1080" timestamp="1587773282495" />
     <state x="771" y="296" key="FileChooserDialogImpl" timestamp="1587768434462">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -148,10 +177,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="492" y="183" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1587771332961" />
-    <state x="583" y="274" key="Vcs.Push.Dialog.v2" timestamp="1587773110818">
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2" timestamp="1587773289410">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="274" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1587773110818" />
+    <state x="583" y="274" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1587773289410" />
     <state x="687" y="272" width="607" height="536" key="find.popup" timestamp="1587771637506">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

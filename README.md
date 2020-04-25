@@ -1,2 +1,2 @@
 #Examples;
-spring-boot-redis
+spring-boot-example-redis
