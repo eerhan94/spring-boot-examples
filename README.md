@@ -1,2 +1,2 @@
 #Examples;
-spring-boot-starter-data-redis
+spring-boot-redis
